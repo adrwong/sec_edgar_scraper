@@ -1,0 +1,379 @@
+https://www.sec.gov/Archives/edgar/data/1007587/000100758721000005/0001007587-21-000005.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758721000004/0001007587-21-000004.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758720000004/0001007587-20-000004.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758719000007/0001007587-19-000007.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758718000006/0001007587-18-000006.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758717000006/0001007587-17-000006.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758716000027/0001007587-16-000027.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758715000002/0001007587-15-000002.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758714000005/0001007587-14-000005.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758713000015/0001007587-13-000015.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312512104008/0001193125-12-104008.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312511065961/0001193125-11-065961.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312510050473/0001193125-10-050473.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312509053697/0001193125-09-053697.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312508055662/0001193125-08-055662.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312507056745/0001193125-07-056745.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312506056559/0001193125-06-056559.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312505088625/0001193125-05-088625.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312505052287/0001193125-05-052287.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000095013504001290/0000950135-04-001290.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758703000008/0001007587-03-000008.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758702000003/0001007587-02-000003.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758701000002/0001007587-01-000002.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758700000004/0001007587-00-000004.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/0001007587-99-000001.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/0001007587-98-000003.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/0001007587-97-000001.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758721000016/0001007587-21-000016.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758721000010/0001007587-21-000010.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758721000007/0001007587-21-000007.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758720000037/0001007587-20-000037.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758720000022/0001007587-20-000022.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758720000011/0001007587-20-000011.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758719000036/0001007587-19-000036.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758719000031/0001007587-19-000031.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758719000016/0001007587-19-000016.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758718000033/0001007587-18-000033.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758718000024/0001007587-18-000024.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758718000013/0001007587-18-000013.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758717000038/0001007587-17-000038.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758717000032/0001007587-17-000032.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758717000017/0001007587-17-000017.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758716000055/0001007587-16-000055.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758716000044/0001007587-16-000044.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758716000032/0001007587-16-000032.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758715000023/0001007587-15-000023.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758715000014/0001007587-15-000014.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758715000011/0001007587-15-000011.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758715000005/0001007587-15-000005.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758714000048/0001007587-14-000048.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758714000035/0001007587-14-000035.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758714000012/0001007587-14-000012.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758713000034/0001007587-13-000034.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758713000027/0001007587-13-000027.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758713000020/0001007587-13-000020.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758712000004/0001007587-12-000004.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312512344205/0001193125-12-344205.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312512221734/0001193125-12-221734.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312511297309/0001193125-11-297309.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312511227369/0001193125-11-227369.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312511210577/0001193125-11-210577.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312511128769/0001193125-11-128769.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312510248455/0001193125-10-248455.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312510179682/0001193125-10-179682.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312510106647/0001193125-10-106647.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312509225032/0001193125-09-225032.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312509166932/0001193125-09-166932.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312509101723/0001193125-09-101723.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312508226071/0001193125-08-226071.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312508171513/0001193125-08-171513.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312508105987/0001193125-08-105987.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312507241929/0001193125-07-241929.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312507175497/0001193125-07-175497.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312507105976/0001193125-07-105976.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312506229926/0001193125-06-229926.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312506167065/0001193125-06-167065.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312506104874/0001193125-06-104874.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312505221473/0001193125-05-221473.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312505162497/0001193125-05-162497.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312505102241/0001193125-05-102241.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312504190482/0001193125-04-190482.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312504134478/0001193125-04-134478.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312504082315/0001193125-04-082315.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000119312503081022/0001193125-03-081022.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758703000029/0001007587-03-000029.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758703000017/0001007587-03-000017.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758702000029/0001007587-02-000029.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758702000011/0001007587-02-000011.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758702000007/0001007587-02-000007.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758701500039/0001007587-01-500039.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758701500032/0001007587-01-500032.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758701500010/0001007587-01-500010.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758700000009/0001007587-00-000009.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758700000008/0001007587-00-000008.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758700000007/0001007587-00-000007.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758799000005/0001007587-99-000005.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/000100758799000004/0001007587-99-000004.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/0001007587-99-000003.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/0001007587-98-000008.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/0001007587-98-000007.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/0001007587-98-000006.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/0001007587-97-000006.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/0001007587-97-000005.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/0001007587-97-000003.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/0001007587-96-000009.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/0001007587-96-000008.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/0001007587-96-000006.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1007587/0001007587-96-000003.txt failed! 
+bad escape \D at position 19
+https://www.sec.gov/Archives/edgar/data/1005286/000100528621000043/0001005286-21-000043.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000100528620000004/0001005286-20-000004.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000162828019009791/0001628280-19-009791.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774918015135/0001437749-18-015135.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774918004661/0001437749-18-004661.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774917014768/0001437749-17-014768.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774917014444/0001437749-17-014444.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774916036012/0001437749-16-036012.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774915014383/0001437749-15-014383.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774914013994/0001437749-14-013994.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774913010047/0001437749-13-010047.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774912007975/0001437749-12-007975.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420411044333/0001144204-11-044333.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420410043322/0001144204-10-043322.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000117120009000508/0001171200-09-000508.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420408044977/0001144204-08-044977.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420407038774/0001144204-07-038774.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000095013406014055/0000950134-06-014055.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000095013405016671/0000950134-05-016671.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000095013405014609/0000950134-05-014609.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000104746904024996/0001047469-04-024996.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000104746903028648/0001047469-03-028648.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000120677403000030/0001206774-03-000030.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000091205702002597/0000912057-02-002597.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000091205701002882/0000912057-01-002882.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000091205700002678/0000912057-00-002678.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/0001047469-99-002700.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/0000950005-98-000043.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/0000950005-97-000070.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000100528621000058/0001005286-21-000058.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000100528621000029/0001005286-21-000029.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000100528621000009/0001005286-21-000009.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000100528620000020/0001005286-20-000020.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000162828020004602/0001628280-20-004602.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000162828020000015/0001628280-20-000015.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000162828019012132/0001628280-19-012132.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000162828019003927/0001628280-19-003927.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774919000357/0001437749-19-000357.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774918017992/0001437749-18-017992.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774918006422/0001437749-18-006422.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774918000336/0001437749-18-000336.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774917016468/0001437749-17-016468.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774917006247/0001437749-17-006247.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774917000265/0001437749-17-000265.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774916039283/0001437749-16-039283.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774916028696/0001437749-16-028696.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774916023322/0001437749-16-023322.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774915017917/0001437749-15-017917.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774915006795/0001437749-15-006795.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774915000472/0001437749-15-000472.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774914018154/0001437749-14-018154.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774914005350/0001437749-14-005350.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774914000124/0001437749-14-000124.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774913012346/0001437749-13-012346.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774913004017/0001437749-13-004017.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774913000212/0001437749-13-000212.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774913000062/0001437749-13-000062.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774912010018/0001437749-12-010018.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774912002895/0001437749-12-002895.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774912000174/0001437749-12-000174.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000143774911007367/0001437749-11-007367.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420411020970/0001144204-11-020970.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420411001086/0001144204-11-001086.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420410052002/0001144204-10-052002.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420410018536/0001144204-10-018536.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420410000907/0001144204-10-000907.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420409050855/0001144204-09-050855.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420409019536/0001144204-09-019536.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420409000933/0001144204-09-000933.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420408056255/0001144204-08-056255.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420408021462/0001144204-08-021462.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420408000798/0001144204-08-000798.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420407051878/0001144204-07-051878.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000114420407015514/0001144204-07-015514.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000089161807000001/0000891618-07-000001.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000095013406018461/0000950134-06-018461.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000095013406006616/0000950134-06-006616.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000095013406000214/0000950134-06-000214.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000095013405018629/0000950134-05-018629.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000110465905015007/0001104659-05-015007.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000110465905000657/0001104659-05-000657.txt failed! 
+bad escape \C at position 12
+https://www.sec.gov/Archives/edgar/data/1005286/000110465904030007/0001104659-04-030007.txt failed! 
